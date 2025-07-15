@@ -1,4 +1,5 @@
 
+
 --- ============ table DG ==================
 create table dg(
     id_dg serial,
